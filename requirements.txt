@@ -36,7 +36,7 @@ requests-xml==0.2.3
 Scrapy==1.5.1
 service-identity==17.0.0
 six==1.11.0
-Twisted==18.7.0
+Twisted==19.7.0
 urllib3==1.23
 virtualenv==16.0.0
 w3lib==1.19.0
